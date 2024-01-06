@@ -22,9 +22,10 @@
 
 ## How to Use
 1. 메모이제이션을 활용한 함수를 구현할 때 항상 **기저 사례(Base case)** 부터 제일 먼저 처리한다. 입력이 범위를 벗어난 경우 등을 기저 사례로 처리하면 된다.
+2. 주어진 문제를 완전 탐색을 이용해 해결한다.
+3. 중복된 부분 문제를 한 번만 계산하도록 메모이제이션을 적용한다.
 
 <br>
 
 ## Examples
-- ?
-- ?
+- [JUMPGAME](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/JUMPGAME.md)
