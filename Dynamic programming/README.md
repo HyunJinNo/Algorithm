@@ -11,6 +11,9 @@
     - 두 번 이상 계산되는 부분 문제를 **중복되는 부분 문제(Overlapping subproblems)** 라고 한다.
   - **메모이제이션(Memoization)**
     - **메모이제이션(Memoization)** 이란 함수의 결과를 저장하는 장소를 마련해 두고, 한 번 계산한 값을 저장해 두었다가 재활용하는 최적화 기법을 말한다.
+    - 메모이제이션은 **참조적 투명 함수(Referential transparent function)** 의 경우에만 적용할 수 있다.
+      > **참조적 투명성(Referential transparency)**: 함수의 반환 값이 입력 값만으로 결정되는지의 여부를 말한다.  
+      > **참조적 투명 함수(Referential transparent function)**: 입력이 고정되어 있을 때 그 결과가 항상 같은 함수들을 말한다.
 - **Time Complexity**
   - ?
 
