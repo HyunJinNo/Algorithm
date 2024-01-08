@@ -31,3 +31,4 @@
 - [JUMPGAME](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/JUMPGAME.md)
 - [WILDCARD](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/WILDCARD.md)
 - [TRIANGLEPATH](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/TRIANGLEPATH.md)
+- [LIS](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/LIS.md)
