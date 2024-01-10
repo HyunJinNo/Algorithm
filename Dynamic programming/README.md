@@ -40,3 +40,4 @@
 - [TRIANGLEPATH](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/TRIANGLEPATH.md)
 - [LIS](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/LIS.md)
 - [JLIS](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/JLIS.md)
+- [PI](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/PI.md)
