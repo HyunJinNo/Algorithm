@@ -44,3 +44,4 @@
 - [QUANTIZE](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/QUANTIZE.md)
 - [TILING2](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/TILING2.md)
 - [TRIPATHCNT](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/TRIPATHCNT.md)
+- [SNAIL](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/SNAIL.md)
