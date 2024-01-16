@@ -40,6 +40,11 @@
 - **최적화 문제 답 계산 방법**
   1. 재귀 호출의 각 단계에서 최적해를 만들었던 선택을 별도의 배열에 저장한다.
   2. 별도의 재귀 함수를 이용해 이 선택을 따라가며 각 선택지를 저장하거나 출력한다.
+- **K번째 답 계산 방법**
+  1. 답들을 사전 순서대로 만들며 경우의 수를 세는 완전 탐색 알고리즘을 설계하고, 메모이제이션을 적용해 경우의 수를 세는 동적 계획법 알고리즘으로 바꾼다.
+  2. 모든 답들을 사전순으로 생성하며 skip개를 건너뛰고 첫 번째 답을 반환하는 재귀 호출 함수를 구현한다. 재귀 함수는 각 조각들에 들어갈 수 있는 값을 하나씩 고려하면서 이 값을 선택했을 때 만들어지는 답의 수 M과 건너 뛰어야 할 답의 수 skip을 비교한다.
+     1. M <= skip: M개의 답은 모두 우리가 원하는 답보다 앞에 있으므로, 이들을 건너뛴다. 대신 skip을 M만큼 줄인다.
+     2. M > skip: M개의 답 중에 우리가 원하는 답이 있으므로, 이 값을 선택한다. M개의 답 중에 skip개를 건너띈 것이 원하는 답이다. 이 값을 답에 추가하고 재귀 호출로 답의 나머지 부분을 만든다.
 <br>
 
 ## Examples
@@ -57,3 +62,5 @@
 - [POLY](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/POLY.md)
 - [NUMB3RS](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/NUMB3RS.md)
 - [PACKING](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/PACKING.md)
+- OCR
+- [MORSE](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/MORSE.md)
