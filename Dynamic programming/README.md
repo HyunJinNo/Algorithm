@@ -52,3 +52,4 @@
 - [SNAIL](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/SNAIL.md)
 - [ASYMTILING](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/ASYMTILING.md)
 - [POLY](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/POLY.md)
+- [NUMB3RS](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/NUMB3RS.md)
