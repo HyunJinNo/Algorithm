@@ -36,3 +36,4 @@
 - [WILDCARD](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/WILDCARD.md)
 - 모든 순열(Permutation) 만들기
 - 모든 조합(Combination) 만들기
+- [ZIMBABWE](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/ZIMBABWE.md)
