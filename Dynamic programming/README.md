@@ -69,3 +69,4 @@
 - ZIMBABWE
 - RESTORE
 - [TICTACTOE](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/TICTACTOE.md)
+- [NUMBERGAME](https://github.com/HyunJinNo/Algorithm/blob/main/Dynamic%20programming/NUMBERGAME.md)
