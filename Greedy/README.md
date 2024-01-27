@@ -21,11 +21,10 @@
   1. 문제의 답을 만드는 과정을 여러 조각으로 나눈다.
   2. 각 조각마다 어떤 우선순위로 선택을 내려야 할지 결정한다. 이에 대한 직관을 얻기 위해서 예제 입력이나 그 외의 작은 입력을 몇 개 손으로 풀어보는 것이 효율적이다.
   3. 어떤 방식이 동작할 것 같으면 두 가지의 속성을 증명한다.
-    - **탐욕적 선택 속성(Greedy choice property)**
-    - **최적 부분 구조**
-- ?
+      - **탐욕적 선택 속성(Greedy choice property)**: 항상 각 단계에서 우리가 선택한 답을 포함하는 최적해가 존재함을 보이면 된다. 이 증명은 대개 우리가 선택한 답과 다른 최적해가 존재함을 가정하고, 이것을 조작해서 우리가 선택한 답을 포함하는 최적해로 바꿀 수 있음을 보이는 형태로 이루어진다.
+      - **최적 부분 구조**: 각 단계에서 항상 최적의 선택만을 했을 때 전체 최적해를 구할 수 있는지 여부를 증명한다. 다행히도 대개의 경우 이 속성이 성립하는지 아닌지는 자명하게 알 수 있다.
 <br>
 
 ## Examples
-- activity section problem
+- [Activity selection problem](https://en.wikipedia.org/wiki/Activity_selection_problem#:~:text=The%20activity%20selection%20problem%20is,finish%20time%20(fi).)
 - [MATCHORDER](https://github.com/HyunJinNo/Algorithm/blob/main/Greedy/MATCHORDER.md)
