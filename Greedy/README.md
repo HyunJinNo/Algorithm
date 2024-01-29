@@ -29,3 +29,4 @@
 - [Activity selection problem](https://en.wikipedia.org/wiki/Activity_selection_problem#:~:text=The%20activity%20selection%20problem%20is,finish%20time%20(fi).)
 - [MATCHORDER](https://github.com/HyunJinNo/Algorithm/blob/main/Greedy/MATCHORDER.md)
 - [LUNCHBOX](https://github.com/HyunJinNo/Algorithm/blob/main/Greedy/LUNCHBOX.md)
+- [STRJOIN](https://github.com/HyunJinNo/Algorithm/blob/main/Greedy/STRJOIN.md)
