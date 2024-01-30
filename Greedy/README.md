@@ -30,3 +30,4 @@
 - [MATCHORDER](https://github.com/HyunJinNo/Algorithm/blob/main/Greedy/MATCHORDER.md)
 - [LUNCHBOX](https://github.com/HyunJinNo/Algorithm/blob/main/Greedy/LUNCHBOX.md)
 - [STRJOIN](https://github.com/HyunJinNo/Algorithm/blob/main/Greedy/STRJOIN.md)
+- [MINASTIRITH](https://github.com/HyunJinNo/Algorithm/blob/main/Greedy/MINASTIRITH.md)
