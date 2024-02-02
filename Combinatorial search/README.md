@@ -27,3 +27,4 @@
 
 ## Examples
 - BOARDCOVER2
+- [ALLERGY](https://github.com/HyunJinNo/Algorithm/blob/main/Combinatorial%20search/ALLERGY.md)
