@@ -18,3 +18,4 @@
 ## Examples
 - [DARPA](https://github.com/HyunJinNo/Algorithm/blob/main/Bisection%20method/DARPA.md)
 - [ARCTIC](https://github.com/HyunJinNo/Algorithm/blob/main/Bisection%20method/ARCTIC.md)
+- [WITHDRAWAL](https://github.com/HyunJinNo/Algorithm/blob/main/Bisection%20method/WITHDRAWAL.md)
