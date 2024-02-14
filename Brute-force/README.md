@@ -29,11 +29,11 @@
 <br>
 
 ## Examples
-- [BOGGLE](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/BOGGLE.md)
-- [PICNIC](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/PICNIC.md)
-- [BOARDCOVER](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/BOARDCOVER.md)
-- [CLOCKSYNC](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/CLOCKSYNC.md)
-- [WILDCARD](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/WILDCARD.md)
+- [BOGGLE](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/BOGGLE.java)
+- [PICNIC](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/PICNIC.java)
+- [BOARDCOVER](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/BOARDCOVER.java)
+- [CLOCKSYNC](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/CLOCKSYNC.java)
+- [WILDCARD](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/WILDCARD.java)
 - 모든 순열(Permutation) 만들기
 - 모든 조합(Combination) 만들기
-- [ZIMBABWE](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/ZIMBABWE.md)
+- [ZIMBABWE](https://github.com/HyunJinNo/Algorithm/blob/main/Brute-force/ZIMBABWE.java)

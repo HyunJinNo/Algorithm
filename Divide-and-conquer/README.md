@@ -26,5 +26,5 @@
 <br>
 
 ## Examples
-- [QUADTREE](https://github.com/HyunJinNo/Algorithm/blob/main/Divide-and-conquer/QUADTREE.md)
-- [FENCE](https://github.com/HyunJinNo/Algorithm/blob/main/Divide-and-conquer/FENCE.md)
+- [QUADTREE](https://github.com/HyunJinNo/Algorithm/blob/main/Divide-and-conquer/QUADTREE.java)
+- [FENCE](https://github.com/HyunJinNo/Algorithm/blob/main/Divide-and-conquer/FENCE.java)
