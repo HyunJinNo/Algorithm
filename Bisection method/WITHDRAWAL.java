@@ -1,7 +1,3 @@
-# WITHDRAWAL
-
-### Source Code
-```Java
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
@@ -73,4 +69,3 @@ public class Main {
         return hi;
     }
 }
-```
