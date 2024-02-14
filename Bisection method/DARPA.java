@@ -1,7 +1,3 @@
-# DARPA
-
-### Source Code
-```Java
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.io.FileInputStream;
@@ -56,4 +52,3 @@ public class Main {
         return lo;
     }
 }
-```
