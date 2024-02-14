@@ -1,7 +1,3 @@
-# BOARDCOVER
-
-### Source Code
-```Java
 import java.util.Scanner;
 
 public class Main {
@@ -97,4 +93,3 @@ public class Main {
         }
     }
 }
-```
