@@ -22,3 +22,4 @@
 - [CANADATRIP](https://github.com/HyunJinNo/Algorithm/blob/main/Bisection%20method/CANADATRIP.java)
 - [WITHDRAWAL](https://github.com/HyunJinNo/Algorithm/blob/main/Bisection%20method/WITHDRAWAL.java)
 - [ROOTS](https://github.com/HyunJinNo/Algorithm/blob/main/Bisection%20method/ROOTS.java)
+- [LOAN](https://github.com/HyunJinNo/Algorithm/blob/main/Bisection%20method/LOAN.java)
