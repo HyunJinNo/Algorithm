@@ -7,3 +7,4 @@
 - Dynamic programming
 - Greedy
 - Combinatorial search
+- Bisection method
