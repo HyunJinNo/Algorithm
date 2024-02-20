@@ -23,3 +23,4 @@
 - [WITHDRAWAL](https://github.com/HyunJinNo/Algorithm/blob/main/Bisection%20method/WITHDRAWAL.java)
 - [ROOTS](https://github.com/HyunJinNo/Algorithm/blob/main/Bisection%20method/ROOTS.java)
 - [LOAN](https://github.com/HyunJinNo/Algorithm/blob/main/Bisection%20method/LOAN.java)
+- [RATIO](https://github.com/HyunJinNo/Algorithm/blob/main/Bisection%20method/RATIO.java)
