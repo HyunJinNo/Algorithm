@@ -8,3 +8,4 @@
 - Greedy
 - Combinatorial search
 - Bisection method
+- Ternary search
