@@ -20,4 +20,4 @@
 <br>
 
 ## Examples
-- 
+- [FOSSIL](https://github.com/HyunJinNo/Algorithm/blob/main/Ternary%20search/FOSSIL.java)
