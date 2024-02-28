@@ -1,4 +1,4 @@
-# Dynamic programming
+# Dynamic Programming
 
 <br>
 

@@ -1,4 +1,4 @@
-# Divide-and-conquer
+# Divide And Conquer
 
 <br>
 

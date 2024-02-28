@@ -1,4 +1,4 @@
-# Ternary search
+# Ternary Search
 
 <br>
 

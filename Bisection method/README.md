@@ -1,4 +1,4 @@
-# Bisection method
+# Bisection Method
 
 <br>
 
