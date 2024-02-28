@@ -3,9 +3,10 @@
 <br>
 
 - Brute-force
-- Divide-and-conquer
-- Dynamic programming
+- Divide And Conquer
+- Dynamic Programming
 - Greedy
-- Combinatorial search
-- Bisection method
-- Ternary search
+- Combinatorial Search
+- Bisection Method
+- Ternary Search
+- Number Theory
