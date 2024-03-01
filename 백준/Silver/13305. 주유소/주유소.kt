@@ -14,7 +14,7 @@ fun main() {
 
     for (i in distance.indices) {
         minCost = min(minCost, cost[i])
-        answer += (minCost * distance[i])
+        answer += (minCost.toLong() * distance[i].toLong())
     }
 
     bw.write("$answer")
