@@ -4,7 +4,7 @@
 
 ## Introduction
 - **Definition**
-  - 
+  - ?
  
 <br>
 
@@ -14,4 +14,4 @@
 <br>
 
 ## Examples
-- 
+- [PASS486](https://github.com/HyunJinNo/Algorithm/blob/main/Number%20Theory/Prime%20Factorization/PASS486.java)
