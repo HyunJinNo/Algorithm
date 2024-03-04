@@ -12,7 +12,7 @@
 ## How to Use
 ```Java
 // Java
-int gcd(int a, int b) { // a > b
+int gcd(int a, int b) {
     if (b == 0) {
         return a;
     } else {
@@ -22,7 +22,6 @@ int gcd(int a, int b) { // a > b
 ```
 ```Kotlin
 // Kotlin
-// a > b
 fun gcd(a: Int, b: Int): Int = if (b == 0) a else gcd(b, a % b)
 ```
 
