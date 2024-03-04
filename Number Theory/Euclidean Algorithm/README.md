@@ -28,4 +28,4 @@ fun gcd(a: Int, b: Int): Int = if (b == 0) a else gcd(b, a % b)
 <br>
 
 ## Examples
-- ?
+- [POTION](https://github.com/HyunJinNo/Algorithm/blob/main/Number%20Theory/Euclidean%20Algorithm/POTION.java)
