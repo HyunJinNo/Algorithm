@@ -10,3 +10,4 @@
 - Bisection Method
 - Ternary Search
 - Number Theory
+- Computational Geometry
