@@ -18,3 +18,4 @@
 
 ## Examples
 - [소수 구하기.kt](https://github.com/HyunJinNo/Algorithm/blob/main/%EB%B0%B1%EC%A4%80/Silver%20III/1929.%E2%80%85%EC%86%8C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/%EC%86%8C%EC%88%98%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.kt)
+- [비트마스크를 사용하는 에라토스테네스의 체](https://github.com/HyunJinNo/Algorithm/blob/main/Number%20Theory/Sieve%20of%20Eratosthenes/Sieve_of_Eratosthenes.js)
