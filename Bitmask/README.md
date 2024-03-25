@@ -152,3 +152,4 @@
 
 ## Examples
 - [비트마스크를 사용하는 에라토스테네스의 체](https://github.com/HyunJinNo/Algorithm/blob/main/Number%20Theory/Sieve%20of%20Eratosthenes/Sieve_of_Eratosthenes.js)
+- [GRADUATION.js](https://github.com/HyunJinNo/Algorithm/blob/main/Bitmask/GRADUATION.js)
