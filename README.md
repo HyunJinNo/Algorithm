@@ -11,3 +11,4 @@
 - Ternary Search
 - Number Theory
 - Computational Geometry
+- Bitmask
