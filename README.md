@@ -12,3 +12,4 @@
 - Number Theory
 - Computational Geometry
 - Bitmask
+- Partial Sum (Prefix Sum)
