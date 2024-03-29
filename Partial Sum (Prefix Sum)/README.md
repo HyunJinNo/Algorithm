@@ -121,4 +121,4 @@
 <br>
 
 ## Examples
-- ?
+- [CHRISTMAS](https://github.com/HyunJinNo/Algorithm/blob/main/Partial%20Sum%20(Prefix%20Sum)/CHRISTMAS.ts)
