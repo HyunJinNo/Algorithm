@@ -21,3 +21,4 @@
 
 ## Examples
 - [FOSSIL](https://github.com/HyunJinNo/Algorithm/blob/main/Ternary%20search/FOSSIL.java)
+- <a href="https://github.com/HyunJinNo/Algorithm/tree/main/%EB%B0%B1%EC%A4%80/Gold/11664.%E2%80%85%EC%84%A0%EB%B6%84%EA%B3%BC%E2%80%85%EC%A0%90">11664. 선분과 점</a>
