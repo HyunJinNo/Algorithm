@@ -1,7 +1,7 @@
 const path: string =
   process.platform === "linux" ? "/dev/stdin" : "./TypeScript/src/input.txt";
 const input: string = require("fs").readFileSync(path).toString().trim();
-const n = Number(input); // 길이, 1 <= n <= 1000
+const n = Number(input); // 길이, 1 <= n <= 100
 const cache: number[][][] = Array.from(Array(n), () =>
   Array.from(Array(10), () => new Array(1 << 10).fill(-1))
 ); // [index, current, used]
