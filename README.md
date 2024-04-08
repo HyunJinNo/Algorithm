@@ -14,4 +14,5 @@
   <li>Bitmask</li>
   <li>Partial Sum (Prefix Sum)</li>
   <li>Data Structures</li>
+  <li>String</li>
 </ul>
