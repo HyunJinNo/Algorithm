@@ -48,7 +48,7 @@
         if (matched === 0) {
           begin++;
         } else {
-          begin += matched + pi[matched - 1];
+          begin += matched - pi[matched - 1];
           matched = pi[matched - 1];
         }
       }
