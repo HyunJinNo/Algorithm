@@ -106,4 +106,5 @@
 <br>
 
 ## Examples
-- <a href="https://github.com/HyunJinNo/Algorithm/blob/main/String/NAMING.ts">Naming</a>
+- <a href="https://github.com/HyunJinNo/Algorithm/blob/main/String/NAMING.ts">NAMING</a>
+- <a href="https://github.com/HyunJinNo/Algorithm/blob/main/String/PALINDROMIZE.ts">PALINDROMIZE</a>
