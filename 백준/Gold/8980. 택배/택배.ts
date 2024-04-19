@@ -189,41 +189,42 @@ arr.sort((a: number[], b: number[]) => {
 });
 
 let answer = 0;
-let capacity = 0;
 const truck = new PriorityQueue<Int16Array>(
   (a: Int16Array, b: Int16Array) => b[0] - a[0]
 );
 let index = 0;
 
 for (let town = N; town > 0; town--) {
+  const pq = new PriorityQueue<Int16Array>(
+    (a: Int16Array, b: Int16Array) => b[0] - a[0]
+  );
+
   while (!truck.isEmpty()) {
-    if (truck.peek()![0] === town) {
-      const temp = truck.dequeue();
+    const temp = truck.dequeue();
+    if (temp[0] === town) {
       answer += temp[2];
-      capacity -= temp[2];
     } else {
-      break;
+      pq.enqueue(temp);
     }
   }
 
   while (index < M && arr[index][1] >= town) {
-    if (capacity == C) {
-      break;
-    }
-
     if (arr[index][1] === town) {
-      if (arr[index][2] + capacity <= C) {
-        truck.enqueue(new Int16Array(arr[index]));
-        capacity += arr[index][2];
-      } else {
-        truck.enqueue(
-          new Int16Array([arr[index][0], arr[index][1], C - capacity])
-        );
-        capacity = C;
-        break;
-      }
+      pq.enqueue(new Int16Array(arr[index]));
     }
     index++;
+  }
+
+  let capacity = 0;
+  while (capacity < C && !pq.isEmpty()) {
+    const temp = pq.dequeue();
+    if (capacity + temp[2] <= C) {
+      truck.enqueue(temp);
+      capacity += temp[2];
+    } else {
+      truck.enqueue(new Int16Array([temp[0], temp[1], C - capacity]));
+      capacity = C;
+    }
   }
 }
 console.log(answer);
