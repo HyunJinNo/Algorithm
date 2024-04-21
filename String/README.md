@@ -108,3 +108,4 @@
 ## Examples
 - <a href="https://github.com/HyunJinNo/Algorithm/blob/main/String/NAMING.ts">NAMING</a>
 - <a href="https://github.com/HyunJinNo/Algorithm/blob/main/String/PALINDROMIZE.ts">PALINDROMIZE</a>
+- <a href="https://github.com/HyunJinNo/Algorithm/blob/main/String/JAEHASAFE.ts">JAEHASAFE</a>
