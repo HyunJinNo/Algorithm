@@ -15,4 +15,5 @@
   <li>Partial Sum (Prefix Sum)</li>
   <li>Data Structures</li>
   <li>String</li>
+  <li>Tree</li>
 </ul>
