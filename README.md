@@ -16,4 +16,5 @@
   <li>Data Structures</li>
   <li>String</li>
   <li>Tree</li>
+  <li>Binary Search Tree</li>
 </ul>
