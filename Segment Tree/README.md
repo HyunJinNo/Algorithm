@@ -140,4 +140,4 @@
 <br>
 
 ## Examples
-- ?
+- [MORDOR](https://github.com/HyunJinNo/Algorithm/blob/main/Segment%20Tree/MORDOR.ts)
