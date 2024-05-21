@@ -17,4 +17,5 @@
   <li>String</li>
   <li>Tree</li>
   <li>Binary Search Tree</li>
+  <li>Segment Tree</li>
 </ul>
