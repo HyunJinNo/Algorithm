@@ -1,0 +1,1 @@
+process.stdout.write("고려대학교");
