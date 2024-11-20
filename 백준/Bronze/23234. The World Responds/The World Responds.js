@@ -1,0 +1,1 @@
+process.stdout.write("The world says hello!");
