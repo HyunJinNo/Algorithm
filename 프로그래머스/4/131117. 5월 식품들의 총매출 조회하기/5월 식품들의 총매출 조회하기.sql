@@ -1,0 +1,5 @@
+select P.PRODUCT_ID, P.PRODUCT_NAME, sum(P.PRICE * AMOUNT) as TOTAL_SALES
+from FOOD_PRODUCT as P inner join FOOD_ORDER as O on P.PRODUCT_ID = O.PRODUCT_ID
+where O.PRODUCE_DATE like "2022-05%"
+group by O.PRODUCT_ID
+order by TOTAL_SALES desc, P.PRODUCT_ID asc;
