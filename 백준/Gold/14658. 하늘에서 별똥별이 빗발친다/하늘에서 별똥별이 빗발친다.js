@@ -11,13 +11,9 @@ const points = input.slice(1).map((str) => str.split(" ").map(Number));
 let answer = 0;
 
 for (let i = 0; i < K; i++) {
-  for (let j = 0; j <= L; j++) {
-    if (points[i][0] - j < 0) {
-      continue;
-    }
-
-    const startX = points[i][0] - j;
-    const startY = points[i][1];
+  for (let j = 0; j < K; j++) {
+    const startX = Math.min(points[i][0], points[j][0]);
+    const startY = Math.min(points[i][1], points[j][1]);
     const endX = startX + L;
     const endY = startY + L;
 
