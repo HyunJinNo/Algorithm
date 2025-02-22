@@ -1,0 +1,4 @@
+select B.ID, B.GENOTYPE, A.GENOTYPE as PARENT_GENOTYPE
+from ECOLI_DATA as A inner join ECOLI_DATA as B on A.ID = B.PARENT_ID
+where A.GENOTYPE & B.GENOTYPE = A.GENOTYPE
+order by B.ID asc;
