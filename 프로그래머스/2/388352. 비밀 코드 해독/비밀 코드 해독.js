@@ -4,10 +4,6 @@ function solution(n, q, ans) {
     const arr = Array(5).fill(0);
     let answer = 0;
     
-    const check = () => {
-        
-    }
-    
     const findAnswer = (index, start) => {
         if (index === 5) {
             let flag = true;
@@ -43,6 +39,5 @@ function solution(n, q, ans) {
     }
     
     findAnswer(0, 1);
-    
     return answer;
 }
