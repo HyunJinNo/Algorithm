@@ -5,33 +5,29 @@ const input = require("fs").readFileSync(path).toString();
 // 1 <= A < N
 const [N, A] = input.split(" ").map(Number);
 
-const gcd = (a, b) => {
+const extendedGCD = (a, b) => {
   if (b === 0) {
-    return a;
+    return { gcd: a, x: 1, y: 0 };
   } else {
-    return gcd(b, a % b);
+    const { gcd, x: x1, y: y1 } = extendedGCD(b, a % b);
+
+    const x = y1;
+    const y = x1 - Math.floor(a / b) * y1;
+
+    return { gcd, x, y };
   }
 };
 
 const modInverse = (a, m) => {
-  if (m === 1) {
-    return 0;
+  const { gcd, x } = extendedGCD(a, m);
+
+  // 모듈러 역원이 존재하지 않는 경우 -1 리턴.
+  if (gcd !== 1) {
+    return -1;
   }
 
-  const m0 = m;
-  let x0 = 0;
-  let x1 = 1;
-
-  while (a > 1) {
-    const q = Math.floor(a / m);
-    [a, m] = [m, a % m];
-    [x0, x1] = [x1 - q * x0, x0];
-  }
-
-  if (x1 < 0) {
-    x1 += m0;
-  }
-  return x1;
+  // 음수인 경우 양수로 조정.
+  return ((x % m) + m) % m;
 };
 
-console.log(N - A, gcd(A, N) === 1 ? modInverse(A, N) : -1);
+console.log(N - A, extendedGCD(A, N).gcd === 1 ? modInverse(A, N) : -1);
