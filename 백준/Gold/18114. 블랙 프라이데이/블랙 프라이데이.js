@@ -10,12 +10,19 @@ let answer = 0;
 arr.sort((a, b) => a - b);
 
 // 물건을 1개 선택하는 경우
-for (let i = 0; i < N; i++) {
-  if (arr[i] === C) {
+let left = -1;
+let right = N;
+
+while (left <= right) {
+  const mid = Math.floor((left + right) / 2);
+
+  if (arr[mid] === C) {
     answer = 1;
     break;
-  } else if (arr[i] > C) {
-    break;
+  } else if (arr[mid] > C) {
+    right = mid - 1;
+  } else {
+    left = mid + 1;
   }
 }
 
@@ -25,8 +32,8 @@ if (answer === 1) {
 }
 
 // 물건을 2개 선택하는 경우
-let left = 0;
-let right = N - 1;
+left = 0;
+right = N - 1;
 
 while (left < right) {
   const sum = arr[left] + arr[right];
