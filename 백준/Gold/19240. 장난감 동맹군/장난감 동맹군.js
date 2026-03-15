@@ -19,22 +19,26 @@ for (let iter = 0; iter < T; iter++) {
     edges[y].push(x);
   }
 
-  const traverse = (node) => {
-    for (const nextNode of edges[node]) {
-      if (graph[nextNode] === -1) {
-        graph[nextNode] = graph[node] === 0 ? 1 : 0;
-        traverse(nextNode);
-      } else if (graph[nextNode] === graph[node]) {
-        result = false;
-        return;
-      }
-    }
-  };
+  const stack = [];
 
-  for (let i = 1; i <= N; i++) {
+  loop: for (let i = 1; i <= N; i++) {
     if (graph[i] === -1) {
+      stack.push(i);
       graph[i] = 0;
-      traverse(i);
+
+      while (stack.length > 0) {
+        const node = stack.pop();
+
+        for (const nextNode of edges[node]) {
+          if (graph[nextNode] === -1) {
+            graph[nextNode] = graph[node] === 0 ? 1 : 0;
+            stack.push(nextNode);
+          } else if (graph[nextNode] === graph[node]) {
+            result = false;
+            break loop;
+          }
+        }
+      }
     }
   }
 
