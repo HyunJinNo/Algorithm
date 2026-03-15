@@ -6,12 +6,11 @@ let index = 1;
 let answer = "";
 
 for (let iter = 0; iter < T; iter++) {
-  // N: 장난감의 수
-  // M: 동맹이 될 수 없는 장난감 쌍의 수
+  // N: 장난감의 수, 3 <= N <= 300_000
+  // M: 동맹이 될 수 없는 장난감 쌍의 수, 1 <= M <= 300_000
   const [N, M] = input[index++].split(" ").map(Number);
   const edges = Array.from({ length: N + 1 }, () => []);
-  const graph = new Int8Array(N + 1).fill(-1);
-  let visited = new Int8Array(N + 1).fill(false);
+  const graph = new Int8Array(N + 1).fill(0);
 
   for (let iter2 = 0; iter2 < M; iter2++) {
     const [x, y] = input[index++].split(" ").map(Number);
@@ -21,40 +20,37 @@ for (let iter = 0; iter < T; iter++) {
 
   const traverse = (node) => {
     for (const nextNode of edges[node]) {
-      if (!visited[nextNode]) {
-        visited[nextNode] = true;
-        graph[nextNode] = graph[node] === 0 ? 1 : 0;
+      if (graph[nextNode] === 0) {
+        graph[nextNode] = graph[node] === 1 ? 2 : 1;
         traverse(nextNode);
       }
     }
   };
 
   for (let i = 1; i <= N; i++) {
-    if (!visited[i]) {
-      visited[i] = true;
-      graph[i] = 0;
+    if (graph[i] === 0) {
+      graph[i] = 1;
       traverse(i);
     }
   }
 
   let result = true;
-  visited = new Int8Array(N + 1).fill(false);
 
   const check = (node) => {
     for (const nextNode of edges[node]) {
       if (graph[nextNode] === graph[node]) {
         result = false;
         return;
-      } else if (!visited[nextNode]) {
-        visited[nextNode] = true;
+      } else if (graph[nextNode] === 1 || graph[nextNode] === 2) {
+        graph[nextNode] *= -1;
         check(nextNode);
       }
     }
   };
 
   for (let i = 1; i <= N; i++) {
-    if (!visited[i]) {
-      visited[i] = true;
+    if (graph[i] === 1 || graph[i] === 2) {
+      graph[i] *= -1;
       check(i);
     }
   }
