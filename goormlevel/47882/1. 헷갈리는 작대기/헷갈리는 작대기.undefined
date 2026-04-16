@@ -1,0 +1,25 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const arr = [0, 0, 0, 0];
+
+for (let c of input) {
+	switch (c) {
+		case "1":
+			arr[0]++;
+			break;
+		case "I":
+			arr[1]++;
+			break;
+		case "l":
+			arr[2]++;
+			break;
+		case "|":
+			arr[3]++;
+			break;
+		default:
+			break;
+	}
+}
+
+for (let i = 0; i < 4; i++) {
+	console.log(arr[i]);
+}
