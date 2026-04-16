@@ -1,0 +1,4 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const N = Number(input); // 1 <= N <= 100
+
+console.log(Math.floor(N / 2) * Math.ceil(N / 2));
