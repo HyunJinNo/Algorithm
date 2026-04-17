@@ -1,0 +1,4 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const [X, Y] = input.split(" ").map(Number);
+
+console.log(X % 2 === 1 && Y % 2 === 1 ? "O" : "E");
