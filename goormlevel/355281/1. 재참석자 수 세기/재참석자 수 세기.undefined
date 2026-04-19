@@ -1,0 +1,21 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+
+// N: 작년 참석자 수, 1 <= N <= 10_000
+// M: 올해 참석자 수, 1 <= M <= 10_000
+const [N, M] = input[0].split(" ").map(Number);
+const participants = new Set();
+let answer = 0;
+
+for (let i = 1; i <= N; i++) {
+	participants.add(input[i].trim());
+}
+
+for (let i = N + 1; i < N + M + 1; i++) {
+	const participant = input[i].trim();
+
+	if (participants.has(participant)) {
+		answer++;
+	}
+}
+
+console.log(answer);
