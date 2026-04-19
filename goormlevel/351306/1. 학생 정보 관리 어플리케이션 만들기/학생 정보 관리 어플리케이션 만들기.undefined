@@ -1,0 +1,14 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const n = Number(input[0]); // 작업의 수, 1 <= n <= 50
+const arr = [];
+
+for (let i = 1; i <= n; i++) {
+	const [a, b] = input[i].trim().split(" ");
+
+	if (a === "add") {
+		arr.push(b);
+	} else {
+		const count = arr.filter((name) => name.startsWith(b)).length;
+		console.log(count);
+	}
+}
