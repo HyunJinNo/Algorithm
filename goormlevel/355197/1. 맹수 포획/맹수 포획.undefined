@@ -1,0 +1,27 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const [Bx, By] = input[0].split(" ").map(Number);
+const [Gx, Gy] = input[1].split(" ").map(Number);
+
+if (Math.sqrt((Bx - Gx) * (Bx - Gx) + (By - Gy) * (By - Gy)) < 5) {
+	console.log("NO");
+	process.exit(0);
+}
+
+
+const N = Number(input[2]); // 덫의 개수, 1 <= N <= 1_000_000
+const arr = [Math.min(Bx, Gx), Math.min(By, Gy), Math.max(Bx, Gx), Math.max(By, Gy)];
+let count = 0;
+
+for (let i = 3; i < 3 + N; i++) {
+	const [X, Y] = input[i].split(" ").map(Number);
+
+	if (X >= arr[0] && X <= arr[2] && Y >= arr[1] && Y <= arr[3]) {
+		count++;
+	}
+
+	if (count >= 3) {
+		break;
+	}
+}
+
+console.log(count === 3 ? "YES" : "NO");
