@@ -19,3 +19,15 @@
   <li>Binary Search Tree</li>
   <li>Segment Tree</li>
 </ul>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
