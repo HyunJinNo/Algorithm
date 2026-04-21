@@ -1,0 +1,15 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+
+// D: 게이지 상승량, 1 <= D <= 100
+// 1 <= L <= R <= 10_000
+const [D, L, R] = input.split(" ").map(Number);
+let answer = false;
+
+for (let num = L; num <= R; num++) {
+	if (num % D === 0) {
+		answer = true;
+		break;
+	}
+}
+
+console.log(answer ? "Y" : "N");
