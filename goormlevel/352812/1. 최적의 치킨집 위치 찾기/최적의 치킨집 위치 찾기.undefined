@@ -1,0 +1,6 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const N = Number(input[0]); // 아파트의 수, 1 <= N <= 200_000
+const A = new Int32Array(input[1].split(" ").map(Number)); // 1 <= A[i] <= 100_000
+A.sort((a, b) => a - b);
+
+console.log(N % 2 === 0 ? A[N / 2 - 1]: A[(N - 1) / 2]);
