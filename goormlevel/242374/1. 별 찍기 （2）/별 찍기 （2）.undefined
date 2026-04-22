@@ -1,0 +1,10 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const N = Number(input); // 1 <= N <= 100
+let answer = "";
+
+for (let i = N; i >= 1; i--) {
+	answer += "*".repeat(i);
+	answer += "\n";
+}
+
+console.log(answer.trim());
