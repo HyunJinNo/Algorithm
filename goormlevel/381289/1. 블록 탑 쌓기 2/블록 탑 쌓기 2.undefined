@@ -1,0 +1,14 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const N = Number(input); // 1 <= N <= 1_000_000
+const MOD = 1_000_000_009;
+const arr = Array(N + 1).fill(-1);
+arr[1] = 1;
+arr[2] = 2;
+arr[3] = 4;
+
+for (let i = 4; i <= N; i++) {
+	arr[i] = arr[i - 1] + arr[i - 2] + arr[i - 3];
+	arr[i] %= MOD;
+}
+
+console.log(arr[N]);
