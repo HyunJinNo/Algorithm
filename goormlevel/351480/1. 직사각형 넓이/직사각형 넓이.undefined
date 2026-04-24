@@ -1,0 +1,5 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const w = Number(input[0]);
+const h = Number(input[1]);
+
+console.log(w * h);
