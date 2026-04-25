@@ -1,0 +1,24 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().trim();
+const N = input.length; // 1 <= N <= 100_000
+const MOD = 1_000_000_007;
+const count = Array(5).fill(0);
+
+for (let i = 0; i < N; i++) {
+	switch (input[i]) {
+		case "g":
+			count[0]++;
+			break;
+		case "o":
+			count[2] = (count[2] + count[1]) % MOD;
+			count[1] = (count[1] + count[0]) % MOD;
+			break;
+		case "r":
+			count[3] = (count[3] + count[2]) % MOD;
+			break;
+		case "m":
+			count[4] = (count[3] + count[4]) % MOD;
+			break;
+	}
+}
+
+console.log(count[4]);
