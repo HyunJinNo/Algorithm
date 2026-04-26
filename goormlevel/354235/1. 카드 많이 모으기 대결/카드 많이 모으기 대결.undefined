@@ -1,0 +1,10 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const [G, B] = input.split(" ").map(Number);
+
+if (G > B) {
+	console.log("Goorm");
+} else if (G < B) {
+	console.log("Baram");
+} else {
+	console.log("Tie");
+}
