@@ -1,0 +1,17 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const [x, y] = input.split(" ").map(Number);
+
+/**
+ * @param {number} a
+ * @param {number} b
+ */
+const gcd = (a, b) => {
+  if (b === 0) {
+    return a;
+  } else {
+    return gcd(b, a % b);
+  }
+};
+
+const temp = gcd(Math.max(x, y), Math.min(x, y));
+console.log(`${x / temp}:${y / temp}`);
