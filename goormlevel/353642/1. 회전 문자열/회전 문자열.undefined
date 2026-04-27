@@ -1,0 +1,19 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const S = input.trim();
+let answer = "";
+
+for (let c of S) {
+	switch (c) {
+		case "6":
+			answer = "9" + answer;
+			break;
+		case "9":
+			answer = "6" + answer;
+			break;
+		default:
+			answer = c + answer;
+			break;
+	}
+}
+
+console.log(answer);
