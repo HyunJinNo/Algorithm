@@ -1,0 +1,42 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+
+// N: 벤치의 수, 1 <= N <= 200_000
+// M: 사람의 수, 1 <= M <= 1_000_000_000
+const [N, M] = input[0].split(" ").map(Number);
+const A = new Int32Array(input[1].split(" ").map(Number)); // 0 <= A[i] <= 1_000_000
+let max = 0;
+
+for (let i = 0; i < N; i++) {
+	if (A[i] > max) {
+		max = A[i];
+	}
+}
+
+const check = (mid) => {
+	let count = 0;
+
+	for (let i = 0; i < N; i++) {
+		count += mid - A[i];
+
+		if (count >= M) {
+			return true;
+		}
+	}
+
+	return false;
+}
+
+let left = max - 1;
+let right = max + M;
+
+while (left + 1 < right) {
+	const mid = Math.floor((left + right) / 2);
+
+	if (check(mid)) {
+		right = mid;
+	} else {
+		left = mid;
+	}
+}
+
+console.log(`${right} ${max + M}`);
