@@ -1,0 +1,8 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const A = input[0].trim();
+const B = input[1].trim();
+
+console.log(A);
+console.log();
+console.log(B);
+console.log();
