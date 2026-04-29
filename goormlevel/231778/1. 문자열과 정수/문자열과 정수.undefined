@@ -1,0 +1,6 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const A = input[0].trim();
+const B = input[1].trim();
+
+console.log(A + B);
+console.log(Number(A) + Number(B));
