@@ -1,0 +1,25 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+
+// N: 수열의 길이, 10 <= N <= 100_000
+// S: 연속된 수들의 합, 0 < S <= 100_000_000
+const [N, S] = input[0].split(" ").map(Number);
+const arr = new Int16Array(input[1].split(" ").map(Number)); // 0 <= arr[i] <= 10_000
+let sum = arr[0];
+let answer = Infinity;
+let startIndex = -1;
+let endIndex = 0;
+
+while (endIndex < N) {
+	if (sum === S) {
+		answer = Math.min(answer, endIndex - startIndex);
+		sum -= arr[++startIndex];
+	} else if (sum > S) {
+		sum -= arr[++startIndex];
+	} else if (endIndex + 1 < N) {
+		sum += arr[++endIndex];
+	} else {
+		break;
+	}
+}
+
+console.log(answer === Infinity ? 0 : answer);
