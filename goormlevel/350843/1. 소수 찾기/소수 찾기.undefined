@@ -1,0 +1,23 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const [N, M] = input.split(" ").map(Number); // 1 <= N <= M <= 500_000
+const isPrime = new Int8Array(M + 1).fill(true);
+isPrime[0] = false;
+isPrime[1] = false;
+
+for (let i = 2; i * i <= M; i++) {
+	if (isPrime[i]) {
+		for (let j = i * i; j <= M; j += i) {
+			isPrime[j] = false;	
+		}	
+	}
+}
+
+let answer = "";
+
+for (let i = N; i <= M; i++) {
+	if (isPrime[i]) {
+		answer += `${i}\n`;
+	}
+}
+
+console.log(answer.trim());
