@@ -1,0 +1,24 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const N = Number(input[0]); // 수열 A의 길이, 1 <= N <= 100_000
+const isPrime = new Int8Array(N + 1).fill(true);
+isPrime[0] = false;
+isPrime[1] = false;
+
+for (let i = 2; i * i <= N; i++) {
+	if (isPrime[i]) {
+		for (let j = i * i; j <= N; j += i) {
+			isPrime[j] = false;	
+		}	
+	}
+}
+
+const A = new Int8Array(input[1].split(" ").map(Number)); // -100 <= A[i] <= 100
+let answer = 0;
+
+for (let i = 0; i < N; i++) {
+	if (isPrime[i + 1]) {
+		answer += A[i];
+	}
+}
+
+console.log(answer);
