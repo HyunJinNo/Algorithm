@@ -1,0 +1,13 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const L = Number(input[0]); // 문자열의 길이, 1 <= L <= 100_000
+const A = input[1].trim();
+const B = input[2].trim();
+let answer = 0;
+
+for (let i = 0; i < L; i++) {
+	if (A[i] !== B[i]) {
+		answer++;
+	}
+}
+
+console.log(answer);
