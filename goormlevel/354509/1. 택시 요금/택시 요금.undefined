@@ -1,0 +1,8 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const [A, B, C, D] = input.split(" ").map(Number); // 1 <= A, B, C, D <= 100
+
+if (C >= D) {
+	console.log(D * A);
+} else {
+	console.log(C * A + (D - C) * B);
+}
