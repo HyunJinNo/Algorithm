@@ -1,0 +1,17 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const [N, X, Y] = input.split(" ").map(Number);
+let answer = "";
+
+for (let num = 1; num <= N; num++) {
+	if (num % X === 0 && num % Y === 0) {
+		answer += "XY\n";
+	} else if (num % X === 0 && num % Y !== 0) {
+		answer += "X\n";
+	} else if (num % X !== 0 &&num % Y === 0) {
+		answer += "Y\n";
+	} else {
+		answer += `${num}\n`;
+	}
+}
+
+console.log(answer.trim());
