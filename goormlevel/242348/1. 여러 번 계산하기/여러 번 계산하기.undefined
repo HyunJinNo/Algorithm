@@ -1,0 +1,8 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const N = Number(input[0]); // 1 <= N <= 1_000
+
+for (let i = 1; i <= N; i++) {
+	const [a, b] = input[i].split(" ").map(Number);
+
+	console.log(a + b);
+}
