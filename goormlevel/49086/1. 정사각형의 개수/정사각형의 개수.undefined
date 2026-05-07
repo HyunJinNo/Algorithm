@@ -1,0 +1,9 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const N = Number(input); // 1 <= N <= 1_000_000
+let answer = 0n;
+
+for (let i = 1; i <= N; i++) {
+	answer += BigInt(i * i);
+}
+
+console.log(answer.toString());
