@@ -1,0 +1,19 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const N = Number(input[0]); // 학생의 수, 2 <= N <= 1_000
+const A = new Int16Array(input[1].split(" ").map(Number));
+const B = new Int16Array(input[2].split(" ").map(Number));
+const C = new Int16Array(N).fill(0);
+
+for (let i = 0; i < N; i++) {
+	let count = 0;
+	
+	for (let j = 0; j < N; j++) {
+		if (A[i] < A[j] && B[i] < B[j]) {
+			count++;
+		}
+	}
+
+	C[i] = count;
+}
+
+console.log(C.join(" ").trim());
