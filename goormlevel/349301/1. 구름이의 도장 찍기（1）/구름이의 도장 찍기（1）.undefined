@@ -1,0 +1,9 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const N = Number(input); // 1 <= N <= 20
+let answer = "";
+
+for (let iter = 0; iter < N; iter++) {
+	answer += `${"O".repeat(N)}\n`;
+}
+
+console.log(answer.trim());
