@@ -1,0 +1,57 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const S = input.trim();
+const stack = [];
+let answer = "YES";
+
+loop: for (const c of S) {
+	switch (c) {
+		case "(":
+		case "{":
+		case "[":
+			stack.push(c);
+			break;
+		case ")":
+			if (stack.length === 0) {
+				answer = "NO";
+				break loop;
+			}
+
+			if (stack.pop() !== "(")  {
+				answer = "NO";
+				break loop;
+			} else {
+				break;
+			}
+		case "}":
+			if (stack.length === 0) {
+				answer = "NO";
+				break loop;
+			}
+
+			if (stack.pop() !== "{")  {
+				answer = "NO";
+				break loop;
+			} else {
+				break;
+			}
+		case "]":
+			if (stack.length === 0) {
+				answer = "NO";
+				break loop;
+			}
+
+			if (stack.pop() !== "[")  {
+				answer = "NO";
+				break loop;
+			} else {
+				break;
+			}
+			break;
+	}
+}
+
+if (stack.length === 0) {
+	console.log(answer);	
+} else {
+	console.log("NO");
+}
