@@ -1,0 +1,41 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+
+// N: 처음에 수열에 있는 수의 개수, 1 <= N <= 100_000
+// K: 관측하고자 하는 수, 1 <= K <= 1_000_000_000
+const [N, K] = input[0].split(" ").map(Number);
+const A = new Int32Array(input[1].split(" ").map(Number)); // 1 <= A[i] <= 1_000_000_000
+const queue = [];
+let peekIndex = 0;
+let answer = -1;
+
+for (let i = 0; i < A.length; i++) {
+	queue.push([A[i], 0]);
+
+	if (A[i] === K) {
+		answer = 0;
+		break;
+	}
+}
+
+if (answer !== -1) {
+	console.log(0);
+	process.exit(0);
+}
+
+while (peekIndex < queue.length) {
+	const [num, time] = queue[peekIndex++];
+
+	if (num === K) {
+		answer = time;
+		break;
+	}
+
+	if (num * 2 + 1 === K) {
+		answer = time + 1;
+		break;
+	} else if (num * 2 + 1 < K) {
+		queue.push([num * 2 + 1, time + 1]);
+	}
+}
+
+console.log(answer);
