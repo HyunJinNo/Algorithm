@@ -1,0 +1,13 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+
+// N: 물품의 종류, 1 <= N <= 100
+// M: 축제 예산, 1 <= M <= 10_000_000
+const [N, M] = input[0].split(" ").map(Number);
+let sum = 0;
+
+for (let i = 1; i <= N; i++) {
+	const [c, v] = input[i].split(" ").map(Number);
+	sum += c * v;
+}
+
+console.log(sum <= M ? M - sum : "No"); 
