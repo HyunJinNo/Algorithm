@@ -1,0 +1,14 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const N = Number(input[0]); // 1 <= N <= 1_000_000_000
+const arr = new Int32Array(input[1].split(" ").map(Number)); // -1_000_000_000 <= arr[i] <= 1_000_000_000
+const M = Number(input[2]);
+let answer = 0;
+
+for (let i = 0; i < N; i++) {
+	if (arr[i] === M) {
+		answer = 1;
+		break;
+	}
+}
+
+console.log(answer);
