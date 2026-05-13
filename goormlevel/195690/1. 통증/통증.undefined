@@ -1,0 +1,13 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+let N = Number(input); // 1 <= N <= 1_000_000_000
+let answer = 0;
+
+answer += Math.floor(N / 14);
+N %= 14;
+
+answer += Math.floor(N / 7);
+N %= 7;
+
+answer += N;
+
+console.log(answer);
