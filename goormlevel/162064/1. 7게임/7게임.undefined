@@ -1,0 +1,17 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+let answer = "";
+
+for (let i = 0; i < 5; i++) {
+	const K = input[i].trim();
+	let a = Number(K[0]) + Number(K[2]) + Number(K[4]) + Number(K[6]);
+
+	for (let i = 1; i <= 5; i += 2) {
+		if (Number(K[i]) !== 0) {
+			a *= Number(K[i]);
+		}
+	}
+
+	answer += `${a % 10}\n`;
+}
+
+console.log(answer.trim());
