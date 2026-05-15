@@ -1,0 +1,10 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+
+// A: 앞으로 걷는 거리
+// B: 뒤로 걷는 거리
+// Q: 반복한 횟수
+// 1 <= B <= A <= 1_000_000_000
+// 1 <= Q <= 1_000_000_000
+const [A, B, Q] = input.split(" ").map(Number);
+
+console.log((BigInt(Math.ceil(Q / 2)) * BigInt(A) - BigInt(Math.floor(Q / 2)) * BigInt(B)).toString());
