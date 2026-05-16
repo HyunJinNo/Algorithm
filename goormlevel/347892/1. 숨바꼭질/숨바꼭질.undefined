@@ -1,0 +1,19 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const [N, S] = input[0].split(" ").map(Number);
+const A = new Int32Array(input[1].split(" ").map(Number));
+let answer = Math.abs(S - A[0]);
+
+const gcd = (a, b) => {
+  if (b === 0) {
+    return a;
+  } else {
+    return gcd(b, a % b);
+  }
+};
+
+for (let i = 1; i < N; i++) {
+	const distance = Math.abs(S - A[i]);
+	answer = gcd(answer, distance);
+}
+
+console.log(answer);
