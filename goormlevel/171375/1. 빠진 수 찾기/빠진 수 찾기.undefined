@@ -1,0 +1,4 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const [A, B] = input.split(" ").map(BigInt);
+
+console.log((A * (A + 1n) / 2n - B).toString());
