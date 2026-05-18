@@ -1,0 +1,11 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+
+// N: 학생의 수, 1 <= N <= 100
+// M: 입실 기록의 개수, 1 <= M <= 1_000
+const [N, M] = input[0].split(" ").map(Number);
+const A = input[1].split(" ").map(Number);
+const arr = [...new Set(A)];
+
+arr.sort((a, b) => a - b);
+
+console.log(arr.join(" ").trim());
