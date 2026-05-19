@@ -1,0 +1,8 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const [B1, B2] = input[0].split(" ").map(Number);
+const [S1, S2] = input[1].split(" ").map(Number);
+const [G1, G2] = input[2].split(" ").map(Number);
+
+console.log(B1 - B2);
+console.log(S1 - S2);
+console.log(G1 - G2);
