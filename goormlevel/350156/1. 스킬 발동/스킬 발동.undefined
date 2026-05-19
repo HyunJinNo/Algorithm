@@ -1,0 +1,14 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const [N, K] = input[0].split(" ").map(Number);
+const T = new Int16Array(input[1].split(" ").map(Number)); // 1 <= T[i] <= 1_000
+let answer = 1;
+let time = T[0];
+
+for (let i = 1; i < N; i++) {
+	if (time + K <= T[i]) {
+		answer++;
+		time = T[i];
+	}
+}
+
+console.log(answer);
