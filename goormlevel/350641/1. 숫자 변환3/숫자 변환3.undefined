@@ -1,0 +1,6 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const arr = input.trim().split("").map(Number).filter((num) => num % 2 === 0);
+
+arr.sort((a, b) => b - a);
+
+console.log(arr.join(""));
