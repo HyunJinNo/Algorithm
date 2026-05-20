@@ -1,0 +1,4 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const arr = input.trim().split("").map(Number);
+
+console.log(arr.reduce((total, current) => total + current, 0));
