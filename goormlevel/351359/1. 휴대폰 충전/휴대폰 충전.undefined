@@ -1,0 +1,4 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const [X, A, B, T] = input.split(" ").map(Number);
+
+console.log(X - A * T + B * T);
