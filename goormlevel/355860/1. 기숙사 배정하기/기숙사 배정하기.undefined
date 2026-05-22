@@ -1,0 +1,13 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const N = Number(input); // 1 <= N <= 20
+const dp = Array(N + 1).fill(0n);
+
+if (N >= 2) {
+	dp[2] = 1n;
+}
+
+for (let i = 3n; i <= BigInt(N); i += 1n) {
+	dp[i] = (i - 1n) * (dp[i - 1n] + dp[i - 2n]);
+}
+
+console.log(dp[N].toString());
