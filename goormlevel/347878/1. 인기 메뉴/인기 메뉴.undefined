@@ -1,0 +1,20 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const N = Number(input[0]); // 1 <= N <= 100
+const map = new Map();
+
+for (let i = 1; i <= N; i++) {
+	const menu = input[i].trim();
+	map.set(menu, (map.get(menu) ?? 0) + 1)
+}
+
+const arr = [...map];
+
+arr.sort((a, b) => {
+	if (a[1] !== b[1]) {
+		return b[1] - a[1];		
+	} else {
+		return a[0].localeCompare(b[0]);
+	}
+});
+
+console.log(arr[0][0]);
