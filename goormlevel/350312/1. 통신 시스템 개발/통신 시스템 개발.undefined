@@ -1,0 +1,19 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const N = Number(input[0]); // 빌딩의 수, 1 <= N <= 100_000
+const h = new Int32Array(input[1].split(" ").map(Number));
+const stack = [[h[0], 1]];
+const answer = Array(N).fill(0);
+
+for (let i = 1; i < N; i++) {
+	while (stack.length > 0 && stack[stack.length - 1][0] < h[i]) {
+		stack.pop();
+	}
+
+	if (stack.length > 0) {
+		answer[i] = stack[stack.length - 1][1];
+	}
+
+	stack.push([h[i], i + 1]);
+}
+
+console.log(answer.join(" ").trim());
