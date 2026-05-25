@@ -1,0 +1,17 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const k = Number(input); // 1 <= k <= 1_000_000
+const arr = [0, 1];
+let answer = "0 1 ";
+
+while (true) {
+	if (arr[0] + arr[1] > k) {
+		break;
+	}
+	
+	const temp = arr[1];
+	arr[1] += arr[0]
+	arr[0] = temp;
+	answer += `${arr[1]} `;
+}
+
+console.log(answer.trim());
