@@ -1,0 +1,15 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const N = Number(input[0]); // 배열의 길이, 1 <= N <= 50
+const A = input[1].trim().split(" ").map(Number);
+const B = input[2].trim().split(" ").map(Number);
+
+A.sort((a, b) => a - b);
+B.sort((a, b) => a - b);
+
+let answer = 0;
+
+for (let i = 0; i < N; i++) {
+	answer += A[i] * B[i];
+}
+
+console.log(answer);
