@@ -1,0 +1,20 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const N = Number(input[0]); // 카드 개수, 1 <= N <= 1_000_000
+const map = new Map();
+
+for (let i = 1; i <= N; i++) {
+	const num = Number(input[i]); // -5_000_000 <= num <= 5_000_000
+	map.set(num, (map.get(num) ?? 0) + 1);
+}
+
+const arr = [...map];
+
+arr.sort((a, b) => {
+	if (a[1] !== b[1]) {
+		return a[1] - b[1];
+	} else {
+		return a[0] - b[0];
+	}
+});
+
+console.log(arr[arr.length - 1][0]);
