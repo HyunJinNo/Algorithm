@@ -1,0 +1,25 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+
+// N: 숫자의 개수, 1 <= N <= 10_000
+// 1 <= K <= 500_000_000
+const [N, K] = input[0].split(" ").map(Number);
+const arr = new Int32Array(input[1].split(" ").map(Number)); // 1 <= arr[i] <= 50_000
+let startIndex = 0;
+let endIndex = 0;
+let sum = 0;
+let answer = 0;
+
+while (endIndex < N) {
+	sum += arr[endIndex];
+	
+	if (sum === K) {
+		answer++;
+		sum -= arr[startIndex++];
+	} else if (sum > K) {
+		sum -= arr[startIndex++];
+	} else {
+		endIndex++;
+	}
+}
+
+console.log(answer);
