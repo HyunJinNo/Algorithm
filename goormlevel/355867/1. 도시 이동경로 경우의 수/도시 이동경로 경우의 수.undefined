@@ -1,0 +1,35 @@
+const input = require("fs").readFileSync("/dev/stdin").toString();
+const N = BigInt(input); // 도시의 개수, 1 <= N <= 1_000_000_000
+const MOD = 1_000_000_007n;
+
+const modPow = (exponent) => {
+	if (exponent === 0n) {
+		return 1n;
+	} else if (exponent === 1n) {
+		return 2n;
+	} else {
+		const temp = modPow(exponent / 2n)
+
+		if (exponent % 2n === 1n) {
+			return temp *	temp * 2n % MOD;
+		} else {
+			return temp * temp % MOD;
+		}
+	}
+}
+
+if (N <= 2n) {
+	console.log(1);
+} else {
+	console.log(modPow(N - 2n).toString());
+}
+
+/*
+1: 1
+2: 1
+3: 2
+4: 4
+5: 8
+6: 16
+7: 32
+*/
