@@ -1,0 +1,27 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+
+// J: 초콜릿의 개수, 1 <= J <= 200
+// N: 상자의 개수, 1 <= N <= 20
+const [J, N] = input[0].split(" ").map(Number);
+const arr = [];
+
+for (let i = 1; i <= N; i++) {
+	const [r, c] = input[i].split(" ").map(Number);
+	arr.push(r * c);
+}
+
+arr.sort((a, b) => b - a);
+
+let sum = 0;
+let answer = -1;
+
+for (let i = 0; i < N; i++) {
+	sum += arr[i];
+
+	if (sum >= J) {
+		answer = i + 1;
+		break;
+	}
+}
+
+console.log(answer);
