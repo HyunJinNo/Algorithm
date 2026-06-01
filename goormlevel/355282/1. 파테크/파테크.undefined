@@ -1,0 +1,33 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+
+// N: 파의 수, 1 <= N <= 1_000_000
+// M: 필요로 하는 파의 길이, 1 <= M <= 2_000_000_000
+const [N, M] = input[0].split(" ").map(Number);
+const A = new Int32Array(input[1].split(" ").map(Number)); // 0 <= A[i] <= 1_000_000_000
+
+const check = (H) => {
+	let result = 0;
+
+	for (let i = 0; i < N; i++) {
+		if (H < A[i]) {
+			result += (A[i] - H);
+		}
+	}
+
+	return result >= M;
+};
+
+let left = 0;
+let right = 1_000_000_001;
+
+while (left + 1 < right) {
+	const mid = Math.floor((left + right) / 2);
+
+	if (check(mid)) {
+		left = mid;
+	} else {
+		right = mid;
+	}
+}
+
+console.log(left);
