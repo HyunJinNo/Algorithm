@@ -1,0 +1,13 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+const N = Number(input[0]); // 1 <= N <= 100_000
+const A = input[1].split(" ").map(Number);
+let answer = 0;
+
+for (let num of A) {
+	while (num % 2 === 0) {
+		num /= 2;
+		answer++;
+	}
+}
+
+console.log(answer);
