@@ -1,0 +1,33 @@
+const input = require("fs").readFileSync("/dev/stdin").toString().split("\n");
+
+// 1 <= N <= 200_000
+// 1 <= M <= 200_000
+const [N, M] = input[0].split(" ").map(Number);
+const A = new Int32Array(input[1].split(" ").map(Number));
+const B = new Int32Array(input[2].split(" ").map(Number));
+let answer = Infinity;
+
+A.sort((a, b) => a - b);
+B.sort((a, b) => a - b);
+
+loop: for (let num of A) {
+	let left = 0;
+	let right = M - 1;
+
+	while (left + 1 < right) {
+		const mid = Math.floor((left + right) / 2);
+
+		if (B[mid] === num) {
+			answer = 0;
+			break loop;	
+		} else if (B[mid] > num) {
+			right = mid;
+		} else {
+			left = mid;
+		}
+	}
+
+	answer = Math.min(answer, Math.abs(num - B[left]), Math.abs(num - B[right]));
+}
+
+console.log(answer);
