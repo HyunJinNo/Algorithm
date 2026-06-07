@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/HyunJinNo/Algorithm/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/HyunJinNo/Algorithm/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -35,4 +36,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/HyunJinNo/Algorithm/tree/master/0066-plus-one) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/HyunJinNo/Algorithm/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
