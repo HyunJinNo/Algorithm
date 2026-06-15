@@ -30,6 +30,7 @@
 | [0046-permutations](https://github.com/HyunJinNo/Algorithm/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/HyunJinNo/Algorithm/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HyunJinNo/Algorithm/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/HyunJinNo/Algorithm/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/HyunJinNo/Algorithm/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
