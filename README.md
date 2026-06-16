@@ -30,6 +30,7 @@
 | [0046-permutations](https://github.com/HyunJinNo/Algorithm/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/HyunJinNo/Algorithm/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HyunJinNo/Algorithm/tree/master/0066-plus-one) |
+| [0120-triangle](https://github.com/HyunJinNo/Algorithm/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/HyunJinNo/Algorithm/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -97,4 +98,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HyunJinNo/Algorithm/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/HyunJinNo/Algorithm/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->
