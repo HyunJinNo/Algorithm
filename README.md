@@ -33,6 +33,7 @@
 | [0120-triangle](https://github.com/HyunJinNo/Algorithm/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/HyunJinNo/Algorithm/tree/master/0136-single-number) |
 | [1732-find-the-highest-altitude](https://github.com/HyunJinNo/Algorithm/tree/master/1732-find-the-highest-altitude) |
+| [3838-weighted-word-mapping](https://github.com/HyunJinNo/Algorithm/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HyunJinNo/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3838-weighted-word-mapping](https://github.com/HyunJinNo/Algorithm/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/HyunJinNo/Algorithm/tree/master/1732-find-the-highest-altitude) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/HyunJinNo/Algorithm/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
