@@ -46,6 +46,7 @@
 | [0009-palindrome-number](https://github.com/HyunJinNo/Algorithm/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HyunJinNo/Algorithm/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HyunJinNo/Algorithm/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/HyunJinNo/Algorithm/tree/master/0069-sqrtx) |
 ## Backtracking
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HyunJinNo/Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/HyunJinNo/Algorithm/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
