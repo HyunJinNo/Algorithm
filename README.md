@@ -48,6 +48,7 @@
 | [0048-rotate-image](https://github.com/HyunJinNo/Algorithm/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HyunJinNo/Algorithm/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HyunJinNo/Algorithm/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/HyunJinNo/Algorithm/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HyunJinNo/Algorithm/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/HyunJinNo/Algorithm/tree/master/0120-triangle) |
 ## Stack
 |  |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/HyunJinNo/Algorithm/tree/master/1189-maximum-number-of-balloons) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HyunJinNo/Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
