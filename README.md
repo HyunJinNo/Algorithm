@@ -125,6 +125,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/HyunJinNo/Algorithm/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/HyunJinNo/Algorithm/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/HyunJinNo/Algorithm/tree/master/0178-rank-scores) |
 ## Prefix Sum
 |  |
 | ------- |
