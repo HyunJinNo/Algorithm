@@ -35,6 +35,7 @@
 | [0136-single-number](https://github.com/HyunJinNo/Algorithm/tree/master/0136-single-number) |
 | [1732-find-the-highest-altitude](https://github.com/HyunJinNo/Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HyunJinNo/Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/HyunJinNo/Algorithm/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HyunJinNo/Algorithm/tree/master/0048-rotate-image) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -158,4 +161,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HyunJinNo/Algorithm/tree/master/0011-container-with-most-water) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
