@@ -105,10 +105,12 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HyunJinNo/Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HyunJinNo/Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
@@ -165,6 +167,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HyunJinNo/Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -174,4 +177,8 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HyunJinNo/Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
