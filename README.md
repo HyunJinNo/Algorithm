@@ -142,6 +142,7 @@
 | [0183-customers-who-never-order](https://github.com/HyunJinNo/Algorithm/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/HyunJinNo/Algorithm/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/HyunJinNo/Algorithm/tree/master/0185-department-top-three-salaries) |
+| [0596-classes-with-at-least-5-students](https://github.com/HyunJinNo/Algorithm/tree/master/0596-classes-with-at-least-5-students) |
 ## Prefix Sum
 |  |
 | ------- |
