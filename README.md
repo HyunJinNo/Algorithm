@@ -33,6 +33,7 @@
 | [0066-plus-one](https://github.com/HyunJinNo/Algorithm/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/HyunJinNo/Algorithm/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/HyunJinNo/Algorithm/tree/master/0136-single-number) |
+| [1288-remove-covered-intervals](https://github.com/HyunJinNo/Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/HyunJinNo/Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HyunJinNo/Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -182,4 +183,8 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HyunJinNo/Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/HyunJinNo/Algorithm/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
