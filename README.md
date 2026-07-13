@@ -203,4 +203,8 @@
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/HyunJinNo/Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1331-rank-transform-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/HyunJinNo/Algorithm/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
