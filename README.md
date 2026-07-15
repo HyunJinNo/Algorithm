@@ -59,6 +59,7 @@
 | [0066-plus-one](https://github.com/HyunJinNo/Algorithm/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/HyunJinNo/Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HyunJinNo/Algorithm/tree/master/0070-climbing-stairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HyunJinNo/Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HyunJinNo/Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
 |  |
@@ -209,4 +210,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/HyunJinNo/Algorithm/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HyunJinNo/Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
