@@ -60,6 +60,7 @@
 | [0009-palindrome-number](https://github.com/HyunJinNo/Algorithm/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/HyunJinNo/Algorithm/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HyunJinNo/Algorithm/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HyunJinNo/Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HyunJinNo/Algorithm/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HyunJinNo/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HyunJinNo/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/HyunJinNo/Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HyunJinNo/Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HyunJinNo/Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -134,6 +136,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/HyunJinNo/Algorithm/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
@@ -174,6 +177,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [3838-weighted-word-mapping](https://github.com/HyunJinNo/Algorithm/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HyunJinNo/Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
