@@ -178,6 +178,7 @@
 | [0620-not-boring-movies](https://github.com/HyunJinNo/Algorithm/tree/master/0620-not-boring-movies) |
 | [1148-article-views-i](https://github.com/HyunJinNo/Algorithm/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/HyunJinNo/Algorithm/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HyunJinNo/Algorithm/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prefix Sum
 |  |
 | ------- |
