@@ -68,6 +68,7 @@
 | [0070-climbing-stairs](https://github.com/HyunJinNo/Algorithm/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HyunJinNo/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HyunJinNo/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/HyunJinNo/Algorithm/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HyunJinNo/Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HyunJinNo/Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -95,6 +96,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/HyunJinNo/Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HyunJinNo/Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HyunJinNo/Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HyunJinNo/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HyunJinNo/Algorithm/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3838-weighted-word-mapping](https://github.com/HyunJinNo/Algorithm/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HyunJinNo/Algorithm/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HyunJinNo/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Graph Theory
 |  |
 | ------- |
