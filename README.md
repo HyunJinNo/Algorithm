@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HyunJinNo/Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HyunJinNo/Algorithm/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HyunJinNo/Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/HyunJinNo/Algorithm/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/HyunJinNo/Algorithm/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/HyunJinNo/Algorithm/tree/master/0048-rotate-image) |
@@ -214,6 +215,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HyunJinNo/Algorithm/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HyunJinNo/Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HyunJinNo/Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
