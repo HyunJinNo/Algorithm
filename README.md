@@ -38,6 +38,7 @@
 | [0136-single-number](https://github.com/HyunJinNo/Algorithm/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/HyunJinNo/Algorithm/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/HyunJinNo/Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -70,6 +71,7 @@
 | [0070-climbing-stairs](https://github.com/HyunJinNo/Algorithm/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/HyunJinNo/Algorithm/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HyunJinNo/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HyunJinNo/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HyunJinNo/Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -160,6 +162,7 @@
 | [0118-pascals-triangle](https://github.com/HyunJinNo/Algorithm/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/HyunJinNo/Algorithm/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/HyunJinNo/Algorithm/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/HyunJinNo/Algorithm/tree/master/1732-find-the-highest-altitude) |
 ## Simulation
 |  |
@@ -271,4 +275,13 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/HyunJinNo/Algorithm/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
