@@ -72,6 +72,7 @@
 | [0486-predict-the-winner](https://github.com/HyunJinNo/Algorithm/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/HyunJinNo/Algorithm/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HyunJinNo/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HyunJinNo/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HyunJinNo/Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -163,6 +164,7 @@
 | [0120-triangle](https://github.com/HyunJinNo/Algorithm/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/HyunJinNo/Algorithm/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/HyunJinNo/Algorithm/tree/master/1510-stone-game-iv) |
 ## Stack
 |  |
 | ------- |
@@ -276,12 +278,23 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/HyunJinNo/Algorithm/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/HyunJinNo/Algorithm/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/HyunJinNo/Algorithm/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/HyunJinNo/Algorithm/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HyunJinNo/Algorithm/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/HyunJinNo/Algorithm/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
