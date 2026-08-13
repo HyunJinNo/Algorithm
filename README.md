@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/HyunJinNo/Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/HyunJinNo/Algorithm/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/HyunJinNo/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HyunJinNo/Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/HyunJinNo/Algorithm/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/HyunJinNo/Algorithm/tree/master/0046-permutations) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HyunJinNo/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/HyunJinNo/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/HyunJinNo/Algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/HyunJinNo/Algorithm/tree/master/1189-maximum-number-of-balloons) |
@@ -303,4 +305,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/HyunJinNo/Algorithm/tree/master/1510-stone-game-iv) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HyunJinNo/Algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
