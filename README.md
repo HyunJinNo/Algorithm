@@ -108,6 +108,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HyunJinNo/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/HyunJinNo/Algorithm/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/HyunJinNo/Algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/HyunJinNo/Algorithm/tree/master/1189-maximum-number-of-balloons) |
@@ -180,6 +181,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 ## Database
 |  |
@@ -315,4 +317,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HyunJinNo/Algorithm/tree/master/0014-longest-common-prefix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
