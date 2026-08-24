@@ -95,6 +95,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/HyunJinNo/Algorithm/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/HyunJinNo/Algorithm/tree/master/0077-combinations) |
 ## Linked List
@@ -115,6 +116,7 @@
 | [0006-zigzag-conversion](https://github.com/HyunJinNo/Algorithm/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/HyunJinNo/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/HyunJinNo/Algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/HyunJinNo/Algorithm/tree/master/1189-maximum-number-of-balloons) |
@@ -178,6 +180,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/HyunJinNo/Algorithm/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HyunJinNo/Algorithm/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/HyunJinNo/Algorithm/tree/master/0118-pascals-triangle) |
@@ -337,4 +340,5 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
