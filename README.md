@@ -82,6 +82,7 @@
 | [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HyunJinNo/Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HyunJinNo/Algorithm/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/HyunJinNo/Algorithm/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/HyunJinNo/Algorithm/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
@@ -110,6 +111,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HyunJinNo/Algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/HyunJinNo/Algorithm/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/HyunJinNo/Algorithm/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -182,6 +184,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/HyunJinNo/Algorithm/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/HyunJinNo/Algorithm/tree/master/0231-power-of-two) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HyunJinNo/Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Dynamic Programming
 |  |
