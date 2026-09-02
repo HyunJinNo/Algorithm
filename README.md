@@ -84,6 +84,7 @@
 | [0069-sqrtx](https://github.com/HyunJinNo/Algorithm/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HyunJinNo/Algorithm/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/HyunJinNo/Algorithm/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/HyunJinNo/Algorithm/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/HyunJinNo/Algorithm/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/HyunJinNo/Algorithm/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
@@ -249,6 +250,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/HyunJinNo/Algorithm/tree/master/0258-add-digits) |
 | [3838-weighted-word-mapping](https://github.com/HyunJinNo/Algorithm/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HyunJinNo/Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -316,6 +318,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/HyunJinNo/Algorithm/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HyunJinNo/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HyunJinNo/Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HyunJinNo/Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
