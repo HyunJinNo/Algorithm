@@ -4,7 +4,7 @@
  * @return {number}
  */
 var firstStableIndex = function (nums, k) {
-    const n = nums.length; // 1 <= n <= 100
+    const n = nums.length; // 1 <= n <= 10_000
     const maxNum = Array(n);
     const minNum = Array(n);
 
