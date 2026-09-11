@@ -54,6 +54,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HyunJinNo/Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HyunJinNo/Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3483-unique-3-digit-even-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HyunJinNo/Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HyunJinNo/Algorithm/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HyunJinNo/Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -75,6 +76,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HyunJinNo/Algorithm/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HyunJinNo/Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/HyunJinNo/Algorithm/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HyunJinNo/Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HyunJinNo/Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -127,6 +129,7 @@
 | [0050-powx-n](https://github.com/HyunJinNo/Algorithm/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/HyunJinNo/Algorithm/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/HyunJinNo/Algorithm/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/HyunJinNo/Algorithm/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/HyunJinNo/Algorithm/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
