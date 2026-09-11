@@ -11,11 +11,15 @@ var totalNumbers = function (digits) {
         }
 
         for (let j = 0; j < digits.length; j++) {
+            if (i === j) {
+                continue;
+            }
+
             for (let k = 0; k < digits.length; k++) {
-                if (i === j || j === k || i === k) {
+                if (j === k || i === k) {
                     continue;
                 }
-                
+
                 const num = digits[i] * 100 + digits[j] * 10 + digits[k];
 
                 if (num % 2 === 0) {
@@ -24,8 +28,6 @@ var totalNumbers = function (digits) {
             }
         }
     }
-
-    console.log(numSet);
 
     return numSet.size;
 };
