@@ -6,12 +6,10 @@
 var combinationSum2 = function(candidates, target) {
     const answer = [];
     candidates.sort((a, b) => a - b);
-    
-    console.log(candidates);
 
     const solution = (index, arr, sum) => {
         if (sum === target) {
-            answer.push(arr);
+            answer.push([...arr]);
             return;
         } 
         
@@ -20,11 +18,13 @@ var combinationSum2 = function(candidates, target) {
         } 
         
         if (sum < target) {
-            solution(index + 1, [...arr, candidates[index]], sum + candidates[index]);
+            arr.push(candidates[index]);
+            solution(index + 1, arr, sum + candidates[index]);
+            arr.pop();
 
             for (let i = index + 1; i < candidates.length; i++) {
                 if (candidates[i] !== candidates[i - 1]) {
-                    solution(i, [...arr], sum);
+                    solution(i, arr, sum);
                     break;
                 }
             }
