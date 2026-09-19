@@ -102,6 +102,7 @@
 | [0492-construct-the-rectangle](https://github.com/HyunJinNo/Algorithm/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/HyunJinNo/Algorithm/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/HyunJinNo/Algorithm/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HyunJinNo/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HyunJinNo/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -396,4 +397,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0022-generate-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/HyunJinNo/Algorithm/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
