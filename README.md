@@ -277,6 +277,7 @@
 | [0610-triangle-judgement](https://github.com/HyunJinNo/Algorithm/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/HyunJinNo/Algorithm/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/HyunJinNo/Algorithm/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/HyunJinNo/Algorithm/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/HyunJinNo/Algorithm/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/HyunJinNo/Algorithm/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/HyunJinNo/Algorithm/tree/master/1484-group-sold-products-by-the-date) |
