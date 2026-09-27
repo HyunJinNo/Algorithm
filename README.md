@@ -159,6 +159,7 @@
 | [0058-length-of-last-word](https://github.com/HyunJinNo/Algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/HyunJinNo/Algorithm/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HyunJinNo/Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HyunJinNo/Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HyunJinNo/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -247,6 +248,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Database
 |  |
 | ------- |
@@ -410,6 +412,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0022-generate-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Geometry
 |  |
 | ------- |
