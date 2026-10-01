@@ -97,6 +97,7 @@
 | [0013-roman-to-integer](https://github.com/HyunJinNo/Algorithm/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HyunJinNo/Algorithm/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/HyunJinNo/Algorithm/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/HyunJinNo/Algorithm/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/HyunJinNo/Algorithm/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HyunJinNo/Algorithm/tree/master/0069-sqrtx) |
@@ -239,6 +240,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/HyunJinNo/Algorithm/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/HyunJinNo/Algorithm/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/HyunJinNo/Algorithm/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/HyunJinNo/Algorithm/tree/master/0118-pascals-triangle) |
@@ -425,4 +427,8 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HyunJinNo/Algorithm/tree/master/1401-circle-and-rectangle-overlapping) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/HyunJinNo/Algorithm/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
