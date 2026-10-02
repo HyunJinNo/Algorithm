@@ -164,6 +164,7 @@
 | [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [1189-maximum-number-of-balloons](https://github.com/HyunJinNo/Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/HyunJinNo/Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HyunJinNo/Algorithm/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HyunJinNo/Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -311,6 +312,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/HyunJinNo/Algorithm/tree/master/1189-maximum-number-of-balloons) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/HyunJinNo/Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Memoization
 |  |
 | ------- |
@@ -333,6 +335,7 @@
 | [0011-container-with-most-water](https://github.com/HyunJinNo/Algorithm/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/HyunJinNo/Algorithm/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/HyunJinNo/Algorithm/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/HyunJinNo/Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HyunJinNo/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Graph Theory
 |  |
