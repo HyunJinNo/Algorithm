@@ -165,6 +165,7 @@
 | [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [0678-valid-parenthesis-string](https://github.com/HyunJinNo/Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HyunJinNo/Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/HyunJinNo/Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HyunJinNo/Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -263,6 +264,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/HyunJinNo/Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HyunJinNo/Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Database
@@ -344,6 +346,7 @@
 | [0055-jump-game](https://github.com/HyunJinNo/Algorithm/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/HyunJinNo/Algorithm/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/HyunJinNo/Algorithm/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HyunJinNo/Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HyunJinNo/Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HyunJinNo/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Graph Theory
@@ -436,6 +439,7 @@
 | [0032-longest-valid-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/HyunJinNo/Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HyunJinNo/Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
