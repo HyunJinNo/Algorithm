@@ -42,6 +42,7 @@
 | [0055-jump-game](https://github.com/HyunJinNo/Algorithm/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/HyunJinNo/Algorithm/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/HyunJinNo/Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HyunJinNo/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/HyunJinNo/Algorithm/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HyunJinNo/Algorithm/tree/master/0119-pascals-triangle-ii) |
@@ -341,6 +342,7 @@
 | [0018-4sum](https://github.com/HyunJinNo/Algorithm/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HyunJinNo/Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HyunJinNo/Algorithm/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/HyunJinNo/Algorithm/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/HyunJinNo/Algorithm/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/HyunJinNo/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/HyunJinNo/Algorithm/tree/master/0344-reverse-string) |
@@ -382,6 +384,7 @@
 | [0015-3sum](https://github.com/HyunJinNo/Algorithm/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HyunJinNo/Algorithm/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HyunJinNo/Algorithm/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/HyunJinNo/Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HyunJinNo/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/HyunJinNo/Algorithm/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
@@ -459,4 +462,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HyunJinNo/Algorithm/tree/master/0062-unique-paths) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HyunJinNo/Algorithm/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/HyunJinNo/Algorithm/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
