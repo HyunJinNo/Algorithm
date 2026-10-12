@@ -40,6 +40,7 @@
 | [0046-permutations](https://github.com/HyunJinNo/Algorithm/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/HyunJinNo/Algorithm/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/HyunJinNo/Algorithm/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/HyunJinNo/Algorithm/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/HyunJinNo/Algorithm/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/HyunJinNo/Algorithm/tree/master/0075-sort-colors) |
@@ -385,6 +386,7 @@
 | [0015-3sum](https://github.com/HyunJinNo/Algorithm/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/HyunJinNo/Algorithm/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HyunJinNo/Algorithm/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/HyunJinNo/Algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HyunJinNo/Algorithm/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HyunJinNo/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/HyunJinNo/Algorithm/tree/master/0561-array-partition) |
@@ -467,6 +469,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/HyunJinNo/Algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HyunJinNo/Algorithm/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
