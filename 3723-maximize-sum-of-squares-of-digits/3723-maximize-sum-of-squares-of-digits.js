@@ -8,13 +8,13 @@ var maxSumOfSquares = function (num, sum) {
         return "";
     }
 
-    let answer = "";
+    const arr = [];
 
     for (let i = 0; i < num; i++) {
         const digit = Math.min(9, sum);
-        answer += digit.toString();
+        arr.push(digit.toString());
         sum -= digit;
     }
 
-    return answer;
+    return arr.join("");
 };
