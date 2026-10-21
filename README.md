@@ -324,6 +324,7 @@
 | [1327-list-the-products-ordered-in-a-period](https://github.com/HyunJinNo/Algorithm/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/HyunJinNo/Algorithm/tree/master/1484-group-sold-products-by-the-date) |
 | [1890-the-latest-login-in-2020](https://github.com/HyunJinNo/Algorithm/tree/master/1890-the-latest-login-in-2020) |
+| [1965-employees-with-missing-information](https://github.com/HyunJinNo/Algorithm/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HyunJinNo/Algorithm/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Prefix Sum
 |  |
