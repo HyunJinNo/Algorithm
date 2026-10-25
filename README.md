@@ -58,6 +58,7 @@
 | [0561-array-partition](https://github.com/HyunJinNo/Algorithm/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/HyunJinNo/Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -228,6 +229,7 @@
 | [0054-spiral-matrix](https://github.com/HyunJinNo/Algorithm/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HyunJinNo/Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0064-minimum-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Tree
 |  |
@@ -242,6 +244,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HyunJinNo/Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HyunJinNo/Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
@@ -249,6 +252,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0226-invert-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HyunJinNo/Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
@@ -408,6 +412,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HyunJinNo/Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HyunJinNo/Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
