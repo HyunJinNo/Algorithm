@@ -63,6 +63,7 @@
 | [1288-remove-covered-intervals](https://github.com/HyunJinNo/Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/HyunJinNo/Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/HyunJinNo/Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HyunJinNo/Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HyunJinNo/Algorithm/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -356,6 +357,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/HyunJinNo/Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/HyunJinNo/Algorithm/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/HyunJinNo/Algorithm/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/HyunJinNo/Algorithm/tree/master/3904-smallest-stable-index-ii) |
