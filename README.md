@@ -64,6 +64,7 @@
 | [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/HyunJinNo/Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HyunJinNo/Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/HyunJinNo/Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/HyunJinNo/Algorithm/tree/master/1732-find-the-highest-altitude) |
@@ -224,6 +225,7 @@
 | [0069-sqrtx](https://github.com/HyunJinNo/Algorithm/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HyunJinNo/Algorithm/tree/master/0268-missing-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HyunJinNo/Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HyunJinNo/Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HyunJinNo/Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
@@ -402,6 +404,7 @@
 | [0086-partition-list](https://github.com/HyunJinNo/Algorithm/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/HyunJinNo/Algorithm/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/HyunJinNo/Algorithm/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HyunJinNo/Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HyunJinNo/Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -456,6 +459,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/HyunJinNo/Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HyunJinNo/Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HyunJinNo/Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/HyunJinNo/Algorithm/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
