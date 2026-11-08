@@ -63,6 +63,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/HyunJinNo/Algorithm/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/HyunJinNo/Algorithm/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HyunJinNo/Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/HyunJinNo/Algorithm/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HyunJinNo/Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -244,6 +245,7 @@
 | [0063-unique-paths-ii](https://github.com/HyunJinNo/Algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0064-minimum-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HyunJinNo/Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/HyunJinNo/Algorithm/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
@@ -264,6 +266,7 @@
 | [0210-course-schedule-ii](https://github.com/HyunJinNo/Algorithm/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HyunJinNo/Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HyunJinNo/Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HyunJinNo/Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HyunJinNo/Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -277,6 +280,7 @@
 | [0210-course-schedule-ii](https://github.com/HyunJinNo/Algorithm/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HyunJinNo/Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HyunJinNo/Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HyunJinNo/Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -393,6 +397,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/HyunJinNo/Algorithm/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/HyunJinNo/Algorithm/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/HyunJinNo/Algorithm/tree/master/1267-count-servers-that-communicate) |
 ## Memoization
 |  |
 | ------- |
@@ -447,6 +452,7 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/HyunJinNo/Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HyunJinNo/Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HyunJinNo/Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/HyunJinNo/Algorithm/tree/master/3532-path-existence-queries-in-a-graph-i) |
