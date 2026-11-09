@@ -127,6 +127,7 @@
 | [0231-power-of-two](https://github.com/HyunJinNo/Algorithm/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/HyunJinNo/Algorithm/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/HyunJinNo/Algorithm/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/HyunJinNo/Algorithm/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HyunJinNo/Algorithm/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HyunJinNo/Algorithm/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/HyunJinNo/Algorithm/tree/master/0486-predict-the-winner) |
@@ -194,6 +195,7 @@
 | [0058-length-of-last-word](https://github.com/HyunJinNo/Algorithm/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/HyunJinNo/Algorithm/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/HyunJinNo/Algorithm/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/HyunJinNo/Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HyunJinNo/Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -389,6 +391,7 @@
 | [0059-spiral-matrix-ii](https://github.com/HyunJinNo/Algorithm/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/HyunJinNo/Algorithm/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/HyunJinNo/Algorithm/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/HyunJinNo/Algorithm/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/HyunJinNo/Algorithm/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/HyunJinNo/Algorithm/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HyunJinNo/Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
