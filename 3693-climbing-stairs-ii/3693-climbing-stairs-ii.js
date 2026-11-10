@@ -17,6 +17,5 @@ var climbStairs = function (n, costs) {
         arr[i] += Math.min(arr[i - 3] + 9, arr[i - 2] + 4, arr[i - 1] + 1);
     }
 
-    console.log(arr);
     return arr[n];
 };
