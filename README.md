@@ -149,6 +149,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/HyunJinNo/Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HyunJinNo/Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HyunJinNo/Algorithm/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/HyunJinNo/Algorithm/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HyunJinNo/Algorithm/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HyunJinNo/Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/HyunJinNo/Algorithm/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -435,6 +436,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HyunJinNo/Algorithm/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HyunJinNo/Algorithm/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/HyunJinNo/Algorithm/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/HyunJinNo/Algorithm/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Graph Theory
 |  |
 | ------- |
