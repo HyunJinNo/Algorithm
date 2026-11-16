@@ -262,6 +262,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HyunJinNo/Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -270,6 +271,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/HyunJinNo/Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HyunJinNo/Algorithm/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0226-invert-binary-tree) |
@@ -299,6 +301,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/HyunJinNo/Algorithm/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HyunJinNo/Algorithm/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
@@ -338,6 +341,7 @@
 | [0020-valid-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HyunJinNo/Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/HyunJinNo/Algorithm/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/HyunJinNo/Algorithm/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HyunJinNo/Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
