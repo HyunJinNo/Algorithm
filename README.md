@@ -275,6 +275,7 @@
 | [0207-course-schedule](https://github.com/HyunJinNo/Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HyunJinNo/Algorithm/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0226-invert-binary-tree) |
+| [0743-network-delay-time](https://github.com/HyunJinNo/Algorithm/tree/master/0743-network-delay-time) |
 | [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/HyunJinNo/Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HyunJinNo/Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
@@ -289,6 +290,7 @@
 | [0207-course-schedule](https://github.com/HyunJinNo/Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HyunJinNo/Algorithm/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/HyunJinNo/Algorithm/tree/master/0226-invert-binary-tree) |
+| [0743-network-delay-time](https://github.com/HyunJinNo/Algorithm/tree/master/0743-network-delay-time) |
 | [1254-number-of-closed-islands](https://github.com/HyunJinNo/Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/HyunJinNo/Algorithm/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HyunJinNo/Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
@@ -452,6 +454,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/HyunJinNo/Algorithm/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/HyunJinNo/Algorithm/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/HyunJinNo/Algorithm/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HyunJinNo/Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/HyunJinNo/Algorithm/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -459,11 +462,13 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/HyunJinNo/Algorithm/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HyunJinNo/Algorithm/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/HyunJinNo/Algorithm/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/HyunJinNo/Algorithm/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
@@ -591,4 +596,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/HyunJinNo/Algorithm/tree/master/0207-course-schedule) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/HyunJinNo/Algorithm/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
